@@ -1,0 +1,10 @@
+.App{
+  height: 100%;
+}
+.App .parent{
+  height: 100%;
+}
+.login-logo-nav{
+  width: 55%;
+  padding: 15px;
+}

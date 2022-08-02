@@ -1,0 +1,632 @@
+[
+    {
+        "slug": "san-diego-parking",
+        "point": [
+            -117.162247,
+            32.713862
+        ],
+        "onstreet_wave": 2,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "San Diego",
+        "onstreet_coverage": "cdrfElmbjUoNn]kYt\\oTxDmjApByMnGuBba@mSs|@cEeUTag@{y@Pe@ob@jPcBxXq@vReH`WzH`LkCtBe\\nTkN~eBk@D`_AxMzc@",
+        "distance": null,
+        "market_id": 117,
+        "timezone": "America/Los_Angeles",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "new-york-city-parking",
+        "point": [
+            -74.00596999999999,
+            40.71426999999998
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "New York",
+        "onstreet_coverage": "{doxFh~ebMfG__@pLiQxAaZ`H}WnIaIt\\pIbrA|fAbp@j`@jAsNj@uXu@khArFzEbZpGbGxBvCwK|cBhw@|@rBz^pLhFvD`ZtR`JqZ`\\`TzH~R|o@{BbhAheAbb@{~@gvA{sBzKo`Ahk@wx@le@sIxz@bgAsBjRx[{KrX}Exf@}VpJ_AnXmMnJmAja@hc@fRtn@zGhmAxCfOxHrL~QfL`KlKd_@cR~d@sP`DrJvEkApPu[zKhKnmA{cClGsIxLhGj@zCla@da@~DiI|L~KbL_WxFPhRcf@~~@nrCeKz|EeM`|@kCfLjArI[nIu|@b}CiIdc@ub@uOaHXgy@vh@rIpp@_R~k@m~BqCykEgy@_gWejO",
+        "distance": null,
+        "market_id": 107,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "munchen-de-parking",
+        "point": [
+            11.57549,
+            48.13743
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Munich",
+        "onstreet_coverage": "}mbeHyameAbAibA_F_zA}CapBJuu@vJcsB~nA~sAlAyC`EkHfCxAfm@~\\xh@u`Alf@ucA`iCnAlWk\\xJ_AxQ`ChPtH~GzBhInCzNlKNt@fIbPvFlVjBl^bJbm@bJdh@z@rTc@~PnAzKkBhAm@bChKrIzFpIiGrWb]jJbBzPRjLyI|Y]~Ny@dCv@fDNtBiBrRaAbJmApY{@lG|Bt@F~AtCzUnMpBeAlBoLJkXfFmGr@i_@rB\\z^zAb]RzUGvf@}GdKcFvBmCj@b@b\\tDve@n@pVowAaAofBoBg@lAmCA{DmBw`@FmNeEiBsNmC_LqFyD{@mH{f@CwMz[gWsPaR{FqNsF_Kwn@yFwMoCiL~@e|AwHqCqQK{UsEcKkA",
+        "distance": null,
+        "market_id": 101,
+        "timezone": "Europe/Berlin",
+        "continent_code": "EU",
+        "country_code": "DE",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "philadelphia-parking",
+        "point": [
+            -75.16379,
+            39.95233999999999
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Philadelphia",
+        "onstreet_coverage": "ai|rFr{|iMaB}^iEyL_QcUnAo_Cfk@ofDf]`Md}@hQznABaHvjAiQpaAgSh`DbEbJp@bEJj_@iB~RmW{FyCjDoHnCkGBoEp@_InDkr@}JeKmCaC_d@qPhA",
+        "distance": null,
+        "market_id": 112,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "stockton-on-tees-gb-parking",
+        "point": [
+            -1.3251548901496322,
+            54.57309639343086
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Stockton-on-Tees",
+        "onstreet_coverage": "cvalI|w{FxTrC|SzJbRtQtOvWpLx\\|Hz`@zDnc@r@vd@uArd@{E|b@yI~_@kMv[kPhVsR`PgTdI}TxA{TsC{SyJeRuQuOuWqL{\\}H{`@{Doc@s@yd@tAsd@zEac@xI}_@jMw[jPiVtRaPdTcI~TyA",
+        "distance": null,
+        "market_id": 850,
+        "timezone": "Europe/London",
+        "continent_code": "EU",
+        "country_code": "GB",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "seattle-parking",
+        "point": [
+            -122.33207,
+            47.60621
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Seattle",
+        "onstreet_coverage": "kpoaHbaqiVxUo@~FdTpNfA`OiDlNE?pT]tAAzaAckAF?xByQ`@eh@`m@kgAhxB_^nSyLwGuBaeC@yv@{[al@dSkp@v{DoF",
+        "distance": null,
+        "market_id": 44,
+        "timezone": "America/Los_Angeles",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "copenhagen-dk-parking",
+        "point": [
+            12.56553,
+            55.67594
+        ],
+        "onstreet_wave": 7,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Copenhagen",
+        "onstreet_coverage": "qiyrIcl{kA~TlAfT~HvRdPnPrVpMf\\`Jt`@bFxc@zAre@k@xe@sDrd@uH~a@kL|]oOvX_RpR{SrKyTdD}TmAgT}HyRePoPsVqMe\\aJu`@cF{c@{Ase@j@}e@rDsd@tH_b@jL_^nOwX`RoRxSsKxTcD",
+        "distance": null,
+        "market_id": 1798,
+        "timezone": "Europe/Copenhagen",
+        "continent_code": "EU",
+        "country_code": "DK",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "los-angeles-parking",
+        "point": [
+            -118.24368,
+            34.05222999999996
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Los Angeles",
+        "onstreet_coverage": "yl}nEfbtpUoCwAk@cACsAnDcIl@Ql@Lp@l@tFaExBlDrFhHvGfEhHpC~@eGjE}LlTpQjFb@zHqd@bHyXpL`Ll`@pGtjCa_@Cf\\{Dn]qFn\\wYz\\xHvDzWzVkMx]ek@fnAeCrHg@X{DfLGfAgH~SmEq@aa@qTwFwF}^viAu@tSNz^_B|S^bhBs`@BKrr@cJ`^FxF}@xDuBlCLfEuAjLPjSX~HGvIvAtLJbG_AdsAb@dJu@`JGrZ}Dtr@yNrTuKtFgHrDmFrCeH`En@^l@??\\b@AE`Fw@?Dhg@cNN?`O?|J?|MoZ@?wA@kBBY@ac@Jm@?eK}@??iEFm@b@eAP}@?aEi@]BeHuDCeCLqBdAa@iBI]iF`AEeC?sGcJ??kDbJ?AcXuQ@Rve@DVApA}a@OgAeCAiB[??iAw@g@AuAu@?AuAq@g@?sAQuAg@g@AqBtYAAcCt@AAgDZ?AgCeH@KgWcJ@EyRl@?A{ApHAAcGLku@kJ?Lyy@kL?aT@?tBGf@G|t@Kfv@oO?Nt^h@?@xBi@?@dDsD@?f@]m@GaM{Ej@iEoAkJP?uAtBqECgQgAmJTuvAeL|BuAmIK_e@qAuBgCKEut@o@wE@qAn@qH?m_AWgSMoVhUEJydB`Zgh@xL{OlYyZvBkGjBwCpe@aP`DaCfF{IxK{K~HwRhBaCp@aDsCoZlUsr@dBkBtLoFbQq@~WyFzKaOeFuCsEdAOyEgFeCxA{FW_@qB}Hm@}@o@a@Pu@}AgA}@yAw@oEi@i@mCw@{HgH",
+        "distance": null,
+        "market_id": 110,
+        "timezone": "America/Los_Angeles",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "raleigh-nc-parking",
+        "point": [
+            -78.63861,
+            35.7721
+        ],
+        "onstreet_wave": 16,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Raleigh",
+        "onstreet_coverage": "{uiyE`c}~McAvnA{`A}A??@qCwFKrAsjA`hAvB",
+        "distance": null,
+        "market_id": 272,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "tampa-fl-parking",
+        "point": [
+            -82.45843,
+            27.94752
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Tampa",
+        "onstreet_coverage": "_ymiD|pmvN?p@qkDkEufAsh@qAoBu@kAaD{JkNsiCfTuaBzPma@hrAaWjdBpr@vBrB~@xAhTboB`Qz|D",
+        "distance": null,
+        "market_id": 344,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "alexandria-la-parking",
+        "point": [
+            -92.44514,
+            31.31129
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Alexandria",
+        "onstreet_coverage": "_nb~DvqbsP~TtAbTpFlRhK~OlO|L|RjIxUhErW~@tXgApXoErWqIrUaMxRePfOqR`KeThF_UlA_UuAcTqFmRgK_PmO}L_SkIwUiEuW_AuXfAqXnEsWpIuUbMyRbPgOpR_KdTiF~TmA",
+        "distance": null,
+        "market_id": 516,
+        "timezone": "America/Chicago",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "koln-de-parking",
+        "point": [
+            6.95,
+            50.93333
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Cologne",
+        "onstreet_coverage": "cxavHsjji@oAoUuQoO_XmCrDwXhCmtBrN~Gj@sfBth@_p@ps@z_CbBuA|_AmmB{@qb@yBpBiAgLiDwt@}AoAy@yG~AgLGaFBaLpp@mJff@eG~HwB|VfDl]pP{EzSIxP|BjXDlSaKve@qMd_@vr@tTnRhkArVsLh_@{VpRwQ|PiShEwGjG|J`BrEzClH``@hl@hB~It@tW~@tBNbEyAtB_AzCyFdmBcAjb@eB`i@{Bdh@k@hFqBlJsFpK_NbSeh@dt@wKhYsf@zmAsNkZoYbCiB`@uAu@cLeBmKeIcGG{WtCa\\v@qBb@mCzA}Dr@_IfCs^lDu^fBgMaGcYkXul@{o@iSiUsLmPqGiLdPcIvJoGvd@md@mr@mfA",
+        "distance": null,
+        "market_id": 102,
+        "timezone": "Europe/Berlin",
+        "continent_code": "EU",
+        "country_code": "DE",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "chicago-parking",
+        "point": [
+            -87.629798,
+            41.878114
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Chicago",
+        "onstreet_coverage": "kel~Fzm|uO{ErPeNfFwPrAgWwEyv@VBmCsEEmxBhCox@npAm`Bre@uAkfEum@b\\ch@rWa@}k@cE_[pUcE|[qFvLmOlWqNxCtWzv@sLlMyXn`@{Zt{@kEvSlTz~A`A?tFhFDf]gIbd@{QzD{Cz\\qItF`Vv@ds@`EfR?xLmBfPhApz@",
+        "distance": null,
+        "market_id": 46,
+        "timezone": "America/Chicago",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "bromley-gb-parking",
+        "point": [
+            0.015190000000000004,
+            51.40606000000001
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Bromley",
+        "onstreet_coverage": "mkwxHmqG~T`AhTzGxRhNpPdTtMhYbJh]fFf`@`Bza@g@bb@qD`a@qHv^gL`[mOlV_RzPySpJwTzC_U_AiTyG{RiNqPeTsMiYeJk]gFg`@aB{a@f@eb@pDaa@pHw^fLa[nOmV|Q{PxSqJxT{C",
+        "distance": null,
+        "market_id": 971,
+        "timezone": "Europe/London",
+        "continent_code": "EU",
+        "country_code": "GB",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "washington-dc-parking",
+        "point": [
+            -77.03636999999998,
+            38.89511000000001
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Washington, D.C.",
+        "onstreet_coverage": "winlFvaluMm@??yN{]f@ImOLwNxB{LhBmPBaMbKIGu]qAsD]sA@gHmQ@@eNqJgTgFiMJumBtAiEbN{`@CiIze@qtAn_CMOzFKzaA~X?rDz@?~xAcBfOwGnPkRRoZg@SvfBsInd@{^jC_IrIgYngAoFvG{Of@",
+        "distance": null,
+        "market_id": 108,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "new-york-extension-30",
+        "point": [
+            -73.93644103854926,
+            40.6510376489639
+        ],
+        "onstreet_wave": 30,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "New York@30",
+        "onstreet_coverage": "mtoxF~ggbMkCuAq@_@oR_KkR}J{DgAiCu@aMsDoOqE{@WsGqB_I}BeCs@uJmCwImC{DoAsGiBsLgDqVkHgLoD}Ae@cOyB`D_t@Py@Ha@\\cA\\eBb@cCXeBdC{MZo@dD_RJg@bBcJ~DyTFWVwAhRoaAbAsFhJgg@Z_BDWFU|@oEFYLm@d@}Bl@_DHc@\\iBF[z@kEHe@hBgJJi@bBoIhAqF`CoLx@_E~DsRh@{BJc@\\{AJk@B]B[Dk@Dw@oAUs@To@PQgA}@r@WPw@h@y@aBFSt@kBNa@s@OSc@IWGQGW}@eBkCg@_@?W?c@?Y?i@?Ul@Q`@Qd@cAy@Dg@D[Fs@Wu@IWM_@]@SDaAPo@Hg@AHQJ[?eAKa@[q@Wk@g@oASqB_@WcAi@cB?o@`BGRKT[t@KTuCkBGUk@e@k@aA}AyCFs@fAcBiB}CJs@nAdAfA`AbAx@Fj@x@^Vd@tAdAnBxArCoK\\qAgEcDzC{H`CaItB_LhAW`BX`@H|@Y?}A?kE?kE?gEt@QvA_@v@Ol@G`@Cx@GjBQ^GXGVK^OXQ^U~@o@`@WvDqCVMTMVEXE`@An@JTHz@Xl@Vx@Zf@Lb@?VCZITGxAg@xEuArHsBp@sEt@oEj@kC\\uAzA{Ht@mDj@kDx@qDj@oDxD{P|AmK`AqFTBHg@WGQYUAg@CQMyCcAVo@dAcGd@mCz@}FHc@bB_Kt@gElCoQ`AuFz@gFhAqGz@eF|@kFz@kFxEa[Nw@pDwSl@sDDSv@oEbAeGj@gDfAgHnIui@fBcLF[D]ZqBZqBp@uEb`@i}BfR}fAjA{GzdDjaAvtBzfC|xAkCvsAgsAp{@y}@~b@uc@|N_V`JcPp@kAJS|C_GvHyNh@eA`EsHbBaDja@yv@xLiUXi@l@kAvGgMbCuEN[hBkDvDkHtCuFjI_Pr@sAbMeVzFmKxI_P\\o@fL_TjIc@pJe@vJk@lKi@hXwA`H_@bBx@jBhA~D~B~D~Bd@VvCdBzDzBhBdAtAx@lE~BzCjB^R~DxBzJzFbFrCl@~ENjAbA~JZxEVtDfBrVfEvVF`@FXp@jDZlBJn@z@bFNx@Jl@VbBBVd@jBPp@f@nBXbA`@pAFRJ\\d@`BNd@f@|AVv@j@tBbAfC`Q}CVEp]kGxB_@lQ_D|k@s@ph@{@zn@eAXApc@}@|@Jx@BjEQv@CpAEjCO`AIj@Ab@@xCd@dCb@dCb@bCl@r@VnA`@`Ct@bA^dCz@v@NlDJpJr@zBNjCLhCN`CLTF|BNhCNhCPbAJ`@BbANhBsAh@AAcApDMVAfA?nBDNnBpKsC~I_FXEdCo@vImCdF@pGcC~CDbAIjA?~A^hAbCz@hEd@lBxApGx@tCj@tC^jDj@|Fz@zLLzCv@dCr@vCv@hDd@|Ap@bCXjAPlARlA|@dEtDjB~@JnAB~Fp@|Dd@rCd@TBdAF\\IzBVjCq@nBjDdHsF~@oAjE_E\\KVG^M^K`@K`@M\\Kb@Kb@O^I\\Kb@Mb@M|@WRgARhCNt@F^FZLr@f@dE?vC_@fAo@j@eBe@cCqBmAkAoBoAaARy@nBYbCLxBf@bCZn@VFpTtFrCxGbo@tzBh@hB~BMz@GpGF`L[lCMxMaAnM_AvAM|@IrAm@d@uGxBmDbEwGrG{KfDm\\v@NZ?yBaKqEuSOqHo@aEb@Ya@wA~@c@bAe@yAqFtIeEbKmFbCoA~@pAnIeLbEaDpBcG~BuDdCWlh@h@D{M@kBpBm@~CCrCh@bBro@dFl\\zi@|z@vhIxGYxLy@lQkAhQ_BdQsB|PiCtP{ClPyDhQnCpTjBpSdGbk@dAjLz@jLfFpWxJ~j@|N`n@pBfHdHhRzGjTbF`RhOvm@bEbS`D~Q`D~LvCdM`DjPdCbOjLfh@|EbVrLlo@dDzTnCpPjBxMjB|PxAdQdAfQl@dSvtAtmAiiDp}MvdAjaKpAlMvMjqAHt@xHhq@fE`_@vGpk@fDn\\pHtt@Db@V|BlArLjCrXfHfw@nP`iBxEbh@dEtd@dFfi@jErd@dAhLhG~r@nA~Lj@tFxd@~bFfEde@fJdaAjJldA_Wb|@{EfPmFnQoJx[Y`AoAfEK\\K^{EdPi@dBK\\cIbEyYdNqEvBgPtISJuM?}@?o@?gA?eB?cG?yB?cSeB_CUaCSeBOqM{EyAi@sG_CqDsAyDuAqCcAoCcAkAmAkDsGmDsG{T}a@cA@_ABeP|@}@Dgs@tMgh@xG{LpAeRkG[K{XeJo[ir@aWoe@_@s@a@s@k@kA]k@]o@JkCJgCJ{BHyBRgDRgD^_H`@aHp@mg@iFoF[[WWsBmBsBoBg@e@sp@eRwJqCkJkC{MwDkMqDqNeC[E[EiToCiToC}McB}XiOi]aYuCEoCEmFI_c@nZ_CI}m@}B}KuB{MgCqWbG{IrBeDq@sTqE{Me@kCoCgBiBeBiB_AeAoNyO_@c@o@s@eC_BcCaBo@c@c@YQMoKoLsKsLuCaDuCaDiA{AiA}Aa@g@_@i@cAkB_CkEwCcF_BqYRgD^gH`@eHxIibB@]Be@n@mJ\\_GFw@Dw@^}FbDak@jCge@S_FAc@uE{d@eAmKOeLIcJQuJWcOuAcHOw@Ow@sA_HuA}GeEaYgEaYoBwMI{UQ}d@O}d@AuAIa@gHwQqHwR{@yBIc@Oqy@GwPGyPH}aBs|@me@uxBmhA}a@cTsqAcr@oQmBfFoZ~Q_l@sIqp@fy@wh@`HYtb@tOhIec@t|@c}CZoIkAsIjCgLdMa|@dK{|E__AorCiRbf@yFQcL~V}L_L_EhIma@ea@k@{CyLiGmGrIomAzcC{KiKqPt[wEjAaDsJ_e@rPe_@bRaKmK_RgLyHsLyCgO{GimAgRun@ka@ic@oJlAoXlMqJ~@yf@|VsX|Ey[zKrBkRyz@cgAme@rIik@vx@{Kn`AfvAzsBcb@z~@chAieA}o@zB{H_Sa\\aTaJpZaZuRiFwD{^qL}@sB}cBiw@wCvKcGyBcZqGsF{Et@jhAk@tXkArNcp@k`@crA}fAu\\qIoI`IaH|WyA`ZqLhQgG~^qNth@",
+        "distance": null,
+        "market_id": 1799,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "salzburg-at-parking",
+        "point": [
+            13.04399,
+            47.79941
+        ],
+        "onstreet_wave": 3,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Salzburg",
+        "onstreet_coverage": "_v{bHubrnA|DuNjCmBoAmEyA{AfFkRgA{BM_CTsDc@gAqSoM@mDzAe@aC{BcC}C@aBzHyFjCeDx@aDbAgA`Bc@tDg@d@mCbAyAt@GvBwCxD_DlA}C|XyOdLcBvEkCnIrI~LRtAo@|CyArJlBlEgBxFKlJ_ElPdVzDt|@~@jAtHElMbI|D{@~@?hE|Qm@~E|DbC~BbAiGpTi@|CVzCu@zDy@jGw@xC_DhDyApCx@hHm@fJmA~IiB`DyArLcOaD{LSod@fUqKjBwOfA}GSkIy@yH`DwBiAmBuCsB{DaBcHkGcj@qBn@gZjMuCwSG}G]gAh@uA?y@c@eK",
+        "distance": null,
+        "market_id": 59,
+        "timezone": "Europe/Vienna",
+        "continent_code": "EU",
+        "country_code": "AT",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "innsbruck-at-parking",
+        "point": [
+            11.39454,
+            47.26266
+        ],
+        "onstreet_wave": 3,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Innsbruck",
+        "onstreet_coverage": "iml_HouldAmVi]mB|EyC`G{ExGoOnHkI{@J{Je@aI_ByKqBeRqGqOs@}D}@cKyAaDyGcFqJuD{FiBcGuDjAsDiCsEiGaDmG{DqDcGuEyKkD}JoBeI_@wEViBjC`BByStKsy@zHo_@|Nkk@nEdGfGxFnLrCdTfJvDqEzIuHaBsSv@_YjFmNzEyF`EaBbBZz@pA?tEEpGr@rEzCbInClIlF~QnGnYrClQ|DnTo@xSpAjTxCx]~BtNzFdTbApICxIa@|HeCjLmBpG_BdHsAtEe@bHLpIr@~RmAtMi@hNrBjYqEp@gBe@qAqD",
+        "distance": null,
+        "market_id": 58,
+        "timezone": "Europe/Vienna",
+        "continent_code": "EU",
+        "country_code": "AT",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "linz-at-parking",
+        "point": [
+            14.28611,
+            48.30639
+        ],
+        "onstreet_wave": 3,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Linz",
+        "onstreet_coverage": "o`|eHaudvA@i@hB{AjAiBrCmC`GwAvDiC`EoChB{@|B}GdHtKnEbLhIgFqAeFHsDaDqM_FwMwMcYpIaM~BwAhG}BvImAjSw@rIgBxHcEdFeF~GaNnScd@hFbFxAaC|H}HxBt]d]~\\|AvGgVjTcHpFmPxOzWzVuB|GKlD_CbF_ShOwD`AuRjAsEfFgI|AkJ_Bs@p@sCtEsCtCqJrGjFdPqLpEq@k@kChAqBJoAkAuB_H}D`Q_EmCw@JcApBaAoDiB[w@NUf@eA{DgCiEh@yBsBqBaC_Ik@KUyCeAiAoEeIkC{C",
+        "distance": null,
+        "market_id": 60,
+        "timezone": "Europe/Vienna",
+        "continent_code": "EU",
+        "country_code": "AT",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "pontypool-gb-parking",
+        "point": [
+            -3.0196675000001534,
+            51.69354899999987
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Pontypool",
+        "onstreet_coverage": "ukozH`cgQ|TnB`ThIlRtO`PnU|LjZjIf^lE|`@bAfb@cAfb@kE|`@kIf^_MlZ_PnUmRtOaThI}TnB}TmBaTgImRuOaPoU_MkZkIi^mE}`@cAgb@bAib@lE}`@jIi^|LkZ`PoUlRwO`TgI|ToB",
+        "distance": null,
+        "market_id": 1116,
+        "timezone": "Europe/London",
+        "continent_code": "EU",
+        "country_code": "GB",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "burton-upon-trent-parking",
+        "point": [
+            -1.6444603893647078,
+            52.810284383438166
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Burton-on-Trent",
+        "onstreet_coverage": "cmiaInkzHzTfC|SdJfRvPvOrVrLn[~Hj_@~D|a@v@fc@qA`c@yEpa@wIv^gMrZiPpUsRpOeTzH}TzA{TeC}SeJgRwPwOqVuLq[_Ik_@_E_b@w@gc@pAcc@xEqa@vIw^hMuZfPoUrRoOdT{H~T{A",
+        "distance": null,
+        "market_id": 1113,
+        "timezone": "Europe/London",
+        "continent_code": "EU",
+        "country_code": "GB",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "la-chaux-de-fonds-parking",
+        "point": [
+            6.821512114945483,
+            47.09828780652053
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "La Chaux-de-Fonds",
+        "onstreet_coverage": "m~m~Ganxh@~ThAfTnGvRlMlPvRlMjW|I~Z|Er]xA~^q@d_@yDd^{Hz[oLnXsObTcR`O{SdI{T`C_UgAgToGwRkMmPyRmMkW}I_[_Fs]wAa_@p@e_@xDe^xH{[nLoXtOeTbR_OzSeIzTaC",
+        "distance": null,
+        "market_id": 703,
+        "timezone": "Europe/Zurich",
+        "continent_code": "EU",
+        "country_code": "CH",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "ravenna-oh-parking",
+        "point": [
+            -81.24205,
+            41.15756
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Ravenna",
+        "onstreet_coverage": "arezFx|unN~TxAbTjGnRvL`PlQ`MnUnIvXlE|ZfA~[cA`\\kE~ZiIxX}LrUaPpQmRzLaTpG_U|A}TyAeTkGoRuLaPmQaMqUmIuXoE}ZgAa\\bAc\\jE}ZhIyX~LsU~OsQlRyLbTqG|T}A",
+        "distance": null,
+        "market_id": 605,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "frankfurt-am-main-de-parking",
+        "point": [
+            8.68333,
+            50.11667
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Frankfurt",
+        "onstreet_coverage": "eo{pHy~vs@iNcEoEgg@yU_KwEBgKyYuLyBeF_EgCkFiAuToCswAKyXVkGnBqNLuG`Hq^jK{[}Ck_@rH_N_AiCVeCt@sItEaKvAsFl@sDzE{UnE{ZTaK|KpFhCHhDrChItCjBrApR~b@|E|PXHpDjG|CrCPsCxCdA|FlCnTxChDz@`D|ChAvDk@xWiA`TrJwOlCJCtGh@jHhIr[tBjIjO|[lG~JxBrIhGzM|@l@xS|d@v@TrBbEcBzAw@aBcPzAcIErJtZJpd@oCnYy~@jjAe@_CaH~E_KxAib@VcSNiGvB",
+        "distance": null,
+        "market_id": 114,
+        "timezone": "Europe/Berlin",
+        "continent_code": "EU",
+        "country_code": "DE",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "spartanburg-sc-parking",
+        "point": [
+            -81.93205,
+            34.94957
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Spartanburg",
+        "onstreet_coverage": "{bitEla}rN`UjAdTpFpRlKdPxOdMpSrIpVpErXjAtY}@tYgEvXeIxV{LzS}OdPkRzKcT`G}TzA_UkAeTqFsRkKeP{OeMqSsIqVqEsXkAuY|@uYfEwXdIyVzL{S|OgPlR{K`T_G|T{A",
+        "distance": null,
+        "market_id": 1333,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "dusseldorf-de-parking",
+        "point": [
+            6.77616,
+            51.22172
+        ],
+        "onstreet_wave": 1,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Dusseldorf",
+        "onstreet_coverage": "uixwHikgh@dWg`@dS_NbU}Ltk@qFdXrGf`@xRbInMjHvX|a@lE`H_pAIkp@u@yw@Umi@}c@st@sb@_d@eV}DoYjKqX|LoYb^ggAtAwNdu@kCl[_@ly@~B|i@lLlc@xRfg@",
+        "distance": null,
+        "market_id": 105,
+        "timezone": "Europe/Berlin",
+        "continent_code": "EU",
+        "country_code": "DE",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "clearwater-fl-parking",
+        "point": [
+            -82.8001,
+            27.96585
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Clearwater",
+        "onstreet_coverage": "c{piDjpgxNA`E}QtgCkMzP}zCvz@yn@oRkCgIgLwdCy@sYbAiQtCk`@fFyXzvEk@rYro@",
+        "distance": null,
+        "market_id": 348,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "fredericksburg-va-parking",
+        "point": [
+            -77.46054,
+            38.30318
+        ],
+        "onstreet_wave": 9,
+        "data_gathering_flag": true,
+        "category": "CITY",
+        "display_name": "Fredericksburg",
+        "onstreet_coverage": "{dxhFppswM`U~@fTlFvRnKlPdPlMdTzIhW~ErYvAvZq@|Z{D~Y{H`XqLbUsOhQeRzL}SxG}TnB_U_AiTkFuRqKmPePoMcT{IkW_FqYwAyZp@}ZzD_ZzHaXpLcUtOkQdRyL|S{GzTmB",
+        "distance": null,
+        "market_id": 1365,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "utrecht-nl-parking",
+        "point": [
+            5.12222,
+            52.09083
+        ],
+        "onstreet_wave": 3,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Utrecht",
+        "onstreet_coverage": "kk||Haza^gg@`ElFugA}F_Ou@_CgBgIiAdAoGaYqFlE{G}VcAqOcCkDyLqU{EtGsItGuBeAlLyz@McBRwAf@eA`A_Fj@wGj@wQr@wc@g@kA@cBf@cBx@G^HjAjBhO^jMcCjAeCdAWbB|@`]kLlRoNzDUfFvA`U~TzQ`Kh`@jY~G~QwP`c@AzE}Wx`AxEpQjBbDlCh`@aMdFcMnNig@|kA",
+        "distance": null,
+        "market_id": 67,
+        "timezone": "Europe/Amsterdam",
+        "continent_code": "EU",
+        "country_code": "NL",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "graz-at-parking",
+        "point": [
+            15.45,
+            47.06667
+        ],
+        "onstreet_wave": 3,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Graz",
+        "onstreet_coverage": "u~h~G}jb}Aam@dSyLk@sCnAwOkb@yKie@tCwEdBD~H{HbB_C~DaBaAmEwIwM}EgMgDiDcG_CbBcHtRcVbFyHbLqB[w@uBqA^iBnOqXqD{IwCkMgLgKsDk@|F}WhEYvFy@nDsC~EiQdEKnDjBnB~D~F_FpAbAfApBVjCf@rM|@pA`ElIlCgAlJ}AjAtAjFgE`HuMrMiM|Obi@`DbL|E~ONdBfBQT~FNdB~@hCh@vFrDxQzDrn@vCbd@`@pKFbRsM|DeRdJkCtDkJ|JgDbBeb@lIeLdD",
+        "distance": null,
+        "market_id": 61,
+        "timezone": "Europe/Vienna",
+        "continent_code": "EU",
+        "country_code": "AT",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "nuremberg-de-parking",
+        "point": [
+            11.06833,
+            49.44778
+        ],
+        "onstreet_wave": 2,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Nuremberg",
+        "onstreet_coverage": "sl|lH_knbAwCuf@sM_^f@eiB{EiY?yh@bSgOvT_b@`SuPlAwAx@iCd@iFWeGi@oHAmETaFxA}FlC_GtEoGrHqE|CcBjCkCdH}HbGgGxAw@|Bm@`DF~JzAlFPdJLzCp@xG~AjCv@`JzE~MnLdDhBbDbApCzAtBlGbAtGrQ|t@hCnNb@ll@rBvHxFhf@H|CDbJgEnS{@fKi@fRPlBrA|Fj@~HbBdRfAnI|AbFnBvEj@hCGxEgAtJ_Gnr@iBxWA~Lt@lUWzKUdFc@~FJbC{DbAaO~HqBDoIkAsB`@iRxLkDP{D@wNf@yLGeS{CmDsA}GuCo\\oVsAqA_MiRiFiKTi@gh@yw@",
+        "distance": null,
+        "market_id": 49,
+        "timezone": "Europe/Berlin",
+        "continent_code": "EU",
+        "country_code": "DE",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "zaragoza-es-parking",
+        "point": [
+            -0.87734,
+            41.65606
+        ],
+        "onstreet_wave": 5,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Zaragoza",
+        "onstreet_coverage": "iai}FxgkDhFhXnf@nj@hUvDzn@r@lKu@xGkD|EwFwCiEuR_q@pGcTvJaJqOwb@oKam@il@w]aIxCeI`L_RvKgRhSeFjV_@j`A",
+        "distance": null,
+        "market_id": 84,
+        "timezone": "Europe/Madrid",
+        "continent_code": "EU",
+        "country_code": "ES",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "miami-parking",
+        "point": [
+            -80.19365999999998,
+            25.77427000000001
+        ],
+        "onstreet_wave": 2,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Miami",
+        "onstreet_coverage": "q{d|CncphNwF}LwEeOmOuDqZUcWjDai@yJgT`Gy`@?qg@`V[lDeP~FcgCdChDa^jCynAiA}TdzCy@~}AaHtH`VxqApLju@xgA}\\l[",
+        "distance": null,
+        "market_id": 123,
+        "timezone": "America/New_York",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "san-antonio-parking",
+        "point": [
+            -98.49363,
+            29.42412
+        ],
+        "onstreet_wave": 2,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "San Antonio",
+        "onstreet_coverage": "csqrDvpexQ|JiR|FePnIoNs@iRm@_MfC{KxRi]{Yi@eUh@wSjDgQi@}XqNeUmI{J|EqLh]xAfUhOrZtJjVnMrWpHxFxOpCpe@|A",
+        "distance": null,
+        "market_id": 118,
+        "timezone": "America/Chicago",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    },
+    {
+        "slug": "houston-parking",
+        "point": [
+            -95.36327,
+            29.76327999999999
+        ],
+        "onstreet_wave": 2,
+        "data_gathering_flag": false,
+        "category": "CITY",
+        "display_name": "Houston",
+        "onstreet_coverage": "yvntDfr}dQu^{OaLYy_@wXcN|WoL`KaBlS}LjW{[_UmWkD{e@O`ApRbKzZlCvP{Gvc@hYxNdFtPtJnMzMxCzJ|AjX?zJaDth@_eAvL_`@`OgUtP}ZfF}H",
+        "distance": null,
+        "market_id": 115,
+        "timezone": "America/Chicago",
+        "continent_code": "NA",
+        "country_code": "US",
+        "price": "300 Rs"
+    }
+]

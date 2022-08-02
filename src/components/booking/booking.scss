@@ -1,0 +1,54 @@
+/* todo: delete file if not needed */
+.booking-page {
+  display: grid;
+  grid-template-rows: 90%;
+  grid-template-columns: 25% 75%;
+  grid-gap: 0px;
+  gap: 0px;
+  height: 100%;
+  .left-pane {
+    .description-list {
+      p {
+        margin: 0;
+      }
+      .price {
+        position: absolute;
+        top: 4px;
+        right: 10px;
+        border: 1px solid #ab47bc;
+        color: #ab47bc;
+        padding: 5px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    }
+  }
+  .right-pane {
+    background-color: #e9650d;
+  }
+}
+
+.popupWindow{
+  margin-top: 30px;
+}
+
+.popupInfo{
+  margin-top: 30px;
+  p{
+    span{
+      font-weight: bold;
+      color: #ca3805;
+    }
+  }
+  button{
+    display: block;
+    margin: auto;
+    border: 0;
+    background: red;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    width: 90%;
+    cursor: pointer;
+  }
+}
